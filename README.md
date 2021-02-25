@@ -11,7 +11,11 @@ As a core course in computer science, CS70 not only teaches you the mathematical
 - Notes (7 - 8) : basic number theory & RSA algorithm
 - Notes (9 - 10) : polynomial & error correcting code
 - Notes (11 - 13) : Counting & Countability & Computability
-- Notes (14 - 22) : basics of probability theory 
+- Notes (14 - 15) : basics of probability theory
+- Notes (16 - 17) : random variables
+- Notes (18 - 20) : concentrain inequalities  & Hash table && load balance && ......
+- Notes (21) : continuous random variables
+- Notes (22) : discrete Markov Chains
 
 ### Where to find the resources ?
 
